@@ -1,0 +1,11 @@
+{
+  "name": "tonejs-instruments",
+  "version": "1.0.0",
+  "main": "Tonejs-Instruments.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qualenritter/tonejs-instruments.git"
+  },
+  "author": "Nicholaus P. Brosowsky",
+  "license": "MIT",
+}
